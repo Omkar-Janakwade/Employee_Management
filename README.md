@@ -26,5 +26,5 @@ The Employee Management System is a simple web application that provides functio
 1. Clone the repository:
    ```sh
    git clone https://github.com/OMkar-Janakwade/employee_management.git
-   cd employee_management/backend
+   cd employee_management/employee-management-frontend
    cd employee_management/employee-system-backend
